@@ -1,11 +1,10 @@
-### Oi! Sou Jackson Lino e esse sou eu:
+### Hey! I'm Jackson Lino and this is me:
 
-
-- 🔭 Atualmente trabalho com Desenvolvimento Web
-- 🌱 Estou estudando Nexpress (NodeJS + ExpressJS)
-- 💬 Me pergunte algo sobre PHP
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato curioso: Já fui professor de Violino
+- 🔭 Currently working with Web Development
+- 🌱 I'm studying Nexpress (NodeJS + ExpressJS)
+- 💬 Ask me something about PHP
+- 😄 Pronouns: He/His
+- ⚡ Fun Fact: I used to be a violin teacher
 <!--
     - 👯 I’m looking to collaborate on ...
     - 🤔 I’m looking for help with ...
