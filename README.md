@@ -56,9 +56,9 @@
     <a href="https://twitter.com/dev_linojackson" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     </a> 
-    <a href="https://medium.com/@jackson.lino" target="_blank">
+<!--     <a href="https://medium.com/@jackson.lino" target="_blank">
         <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
-    </a> 
+    </a>  -->
     <a href="https://instagram.com/jackson.lino" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
