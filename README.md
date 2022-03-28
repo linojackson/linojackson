@@ -3,7 +3,7 @@
 - 🔭 Currently working with Web Development
 - 🌱 I'm studying Nexpress (NodeJS + ExpressJS)
 - 💬 Ask me something about PHP
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I used to be a violin teacher
 <!--
     - 👯 I’m looking to collaborate on ...
@@ -14,8 +14,8 @@
 <!-- Github Stats-->
 <div align="center">
     <a href="https://github.com/linojackson">
-        <img height="195em" width="495em" src="https://github-readme-stats.vercel.app/api?username=linojackson&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-        <img height="195em" width="414em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linojackson&layout=compact&langs_count=7&theme=monokai"/>
+        <img height="180em" width="495em" src="https://github-readme-stats.vercel.app/api?username=linojackson&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+        <img height="180em" width="414em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linojackson&layout=compact&langs_count=7&theme=monokai"/>
     </a>
 </div>
   
