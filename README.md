@@ -24,6 +24,7 @@
     <img align="center" alt="Jack-Php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
     <img align="center" alt="Jack-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jack-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Jack-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
     <img align="center" alt="Jack-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="Jack-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
