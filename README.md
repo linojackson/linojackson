@@ -1,7 +1,7 @@
 ### Hey! I'm Jackson Lino and this is me:
 
 - 🔭 Currently working with Web Development
-- 🌱 I'm studying Nexpress (NodeJS + ExpressJS)
+- 🌱 I'm studying NodeJS + Typescript
 - 💬 Ask me something about PHP
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I used to be a violin teacher
